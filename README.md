@@ -1,4 +1,4 @@
-# socket_1
+# socket
 The exercise simulates a server side written in Python.
 The system receives input commands from the user from a list of commands, and the computer executes the commands for the user.
 
